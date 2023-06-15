@@ -31,6 +31,8 @@ The structure of most of the functions in the risk area scripts follows these st
 
 `CRD_pr.R` - main script
 
+`log.xlsx` - log file for updates
+
 ### Risk areas
 1 - Displacement and migration
 
