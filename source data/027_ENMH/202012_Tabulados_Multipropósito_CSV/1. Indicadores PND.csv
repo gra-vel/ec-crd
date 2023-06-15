@@ -1,0 +1,68 @@
+;;;;;;;;;;;;
+;Indicadores del Plan Nacional de Desarrollo  (PND) 2017 - 2021;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;N°;Objetivo ;Meta ;Indicador ;Desagregación ;"Estimación
+(Porcentaje)";"Error estándar 
+";"Límite inferior
+(Porcentaje)";"Límite superior 
+(Porcentaje)";"Coeficiente de variación
+(Porcentaje)";Numerador muestral;Denominador muestral 
+;1;Objetivo 1: Garantizar una vida digna con iguales oportunidades para todas las personas.;"1.17. Incrementar de 12,2% a 14,4% la población mayor a 12 años que realiza más de 3.5 horas a la semana de ejercicio o
+deporte en el tiempo libre, 2021.";Porcentaje de la población que realiza ejercicio o deporte en su tiempo libre más de 3,5 horas a la semana (%).;Nacional ;10,46;0,005;9,55;11,37;4,44; 1.644 ; 17.076 
+;;;;;Urbana ;11,29;0,006;10,02;12,56;5,75; 759 ; 6.590 
+;;;;;Rural ;8,61;0,004;7,87;9,35;4,39; 885 ; 10.486 
+;2;Objetivo 1: Garantizar una vida digna con iguales oportunidades para todas las personas.;1.35. Aumentar la cobertura, calidad, y acceso a servicios de salud: Incrementar el porcentaje de percepción positiva de los hogares en relación a servicios públicos de salud de calidad al 2021.  ;Porcentaje de hogares con percepción positiva en relación a los servicios de salud pública (%).;Nacional ;44,46;0,012;42,03;46,90;2,79; 1.240 ; 2.658 
+;;;;;Urbana ;42,83;0,017;39,40;46,27;4,09; 410 ; 945 
+;;;;;Rural ;47,54;0,014;44,85;50,23;2,88; 830 ; 1.713 
+;3;Objetivo 5: Impulsar la productividad y competitividad para el crecimiento económico sustentable de manera redistributiva y solidaria.;5.5. Incrementar de 4,6 a 5,6 el Índice de Desarrollo de Tecnologías de la Información y Comunicación, al 2021.;Años Promedio de Escolaridad.;Nacional ;10,53;0,065;10,40;10,65;0,62; 224.343 ; 24.211 
+;;;;;Urbana ;11,76;0,086;11,59;11,92;0,73; 110.885 ; 9.507 
+;;;;;Rural ;7,64;0,061;7,52;7,76;0,80; 113.458 ; 14.704 
+;4;Objetivo 5: Impulsar la productividad y competitividad para el crecimiento económico sustentable de manera redistributiva y solidaria.;5.5. Incrementar de 4,6 a 5,6 el Índice de Desarrollo de Tecnologías de la Información y Comunicación, al 2021.;Tasa bruta de matrícula en secundaria (%).;Nacional ;97,86;0,012;95,52;100,19;1,21; 2.484 ; 2.513 
+;;;;;Urbana ;99,24;0,016;96,02;102,45;1,65; 913 ; 894 
+;;;;;Rural ;95,35;0,016;92,27;98,43;1,65; 1.571 ; 1.619 
+;5;Objetivo 5: Impulsar la productividad y competitividad para el crecimiento económico sustentable de manera redistributiva y solidaria.;5.5. Incrementar de 4,6 a 5,6 el Índice de Desarrollo de Tecnologías de la Información y Comunicación, al 2021.;Porcentaje de personas que utilizan internet (%).;Nacional ;70,72;0,005;69,65;71,80;0,77; 12.450 ; 19.454 
+;;;;;Urbana ;77,11;0,007;75,72;78,50;0,92; 5.742 ; 7.470 
+;;;;;Rural ;56,90;0,008;55,37;58,42;1,37; 6.708 ; 11.984 
+;6;Objetivo 5: Impulsar la productividad y competitividad para el crecimiento económico sustentable de manera redistributiva y solidaria.;5.5. Incrementar de 4,6 a 5,6 el Índice de Desarrollo de Tecnologías de la Información y Comunicación, al 2021.;Porcentaje de hogares con al menos un computador (%).;Nacional ;43,92;0,008;42,27;45,58;1,92; 2.027 ; 5.832 
+;;;;;Urbana ;53,39;0,012;51,10;55,68;2,19; 1.177 ; 2.253 
+;;;;;Rural ;23,28;0,007;21,83;24,73;3,17; 850 ; 3.579 
+;7;Objetivo 5: Impulsar la productividad y competitividad para el crecimiento económico sustentable de manera redistributiva y solidaria.;5.5. Incrementar de 4,6 a 5,6 el Índice de Desarrollo de Tecnologías de la Información y Comunicación, al 2021.;Porcentaje de hogares con acceso a internet  (%).;Nacional ;53,21;0,008;51,58;54,84;1,56; 2.601 ; 5.832 
+;;;;;Urbana ;61,70;0,011;59,48;63,92;1,83; 1.371 ; 2.253 
+;;;;;Rural ;34,69;0,009;32,88;36,50;2,66; 1.230 ; 3.579 
+;8;Objetivo 6:  Desarrollar las capacidades productivas y del entorno para lograr la soberanía alimentaria y el desarrollo rural integral.;6.8. Aumentar la cobertura, calidad, y acceso a servicios de educación, con pertinencia cultural y territorial, en zonas rurales: Incrementar del 7,3 a 8 la calificación a la educación pública en el área rural, al 2021.;Calificación a la educación pública en el área rural.;Nacional ;7,71;0,050;7,61;7,80;0,65; 29.928 ; 15.318 
+;;;;;Urbana ;7,66;0,074;7,51;7,80;0,97; 10.503 ; 5.963 
+;;;;;Rural ;7,79;0,046;7,70;7,88;0,59; 19.425 ; 9.355 
+;9;Objetivo 7. Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.5. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar la confianza en el Consejo de la Judicatura al 2021;Confianza en el Consejo de la Judicatura (Rural).;Rural ;5,45;0,052;5,35;5,55;0,94; 44.256 ; 8.148 
+;10;Objetivo 6: Desarrollar las capacidades productivas y del entorno para lograr la soberanía alimentaria y el desarrollo rural integral.;Mejorar la cobertura, calidad, y acceso a servicios de salud, justicia y seguridad integral, con pertinencia cultural y territorial, en zonas rurales, al 2021.;Satisfacción del servicio recibido por parte del Consejo de la Judicatura (Jueces);Nacional ;5,24;0,237;4,77;5,70;4,53; 2.394 ; 433 
+;;;;;Urbana ;5,05;0,295;4,47;5,63;5,85; 1.200 ; 227 
+;;;;;Rural ;5,91;0,269;5,38;6,44;4,56; 1.194 ; 206 
+;11;Objetivo 6:  Desarrollar las capacidades productivas y del entorno para lograr la soberanía alimentaria y el desarrollo rural integral.;Mejorar la cobertura, calidad, y acceso a servicios de salud, justicia y seguridad integral, con pertinencia cultural y territorial, en zonas rurales, al 2021.;Satisfacción del servicio recibido por parte de la Fiscalía General del Estado.;Nacional ;4,91;0,213;4,49;5,33;4,33; 2.677 ; 509 
+;;;;;Urbana ;4,72;0,256;4,22;5,22;5,43; 1.338 ; 272 
+;;;;;Rural ;5,66;0,259;5,15;6,17;4,58; 1.339 ; 237 
+;12;Objetivo 7. Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.7. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar la confianza en la Defensoría Pública al 2021.;Confianza en la Defensoría Pública (Rural).;Rural ;5,59;0,051;5,49;5,69;0,91; 45.672 ; 8.198 
+;13;Objetivo 7. Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;N/A;Satisfacción del servicio recibido por parte de la Defensoría Pública.;Nacional ;5,27;0,260;4,77;5,78;4,92; 2.209 ; 394 
+;;;;;Urbana ;5,06;0,331;4,41;5,71;6,54; 1.011 ; 189 
+;;;;;Rural ;5,95;0,262;5,43;6,46;4,41; 1.198 ; 205 
+;14;Objetivo 7. Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.6. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Incrementar la confianza en la Fiscalía General del Estado al 2021.;Confianza en la Fiscalía General del Estado (Rural).;Rural ;5,52;0,053;5,41;5,62;0,96; 44.571 ; 8.103 
+;15;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.11. Aumentar el índice de percepción de atención y calidad en el servicio público al ciudadano al 2021.;Índice de percepción de atención y calidad del servidor público.;Nacional ;6,95;0,052;6,84;7,05;0,75; 49.153 ; 6.904 
+;;;;;Urbana ;6,75;0,074;6,61;6,90;1,09; 17.569 ; 2.580 
+;;;;;Rural ;7,35;0,042;7,26;7,43;0,57; 31.583 ; 4.324 
+;16;Objetivo 7: Garantizar la soberanía y la paz, y posicionar estratégicamente al país en la región y el mundo.;7.4. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar el índice de confianza en las Fuerzas Armadas al 2021;Confianza en las Fuerzas Armadas.;Nacional ;6,40;0,044;6,32;6,49;0,69; 93.918 ; 14.469 
+;;;;;Urbana ;6,34;0,059;6,23;6,46;0,93; 37.234 ; 5.799 
+;;;;;Rural ;6,54;0,050;6,44;6,64;0,77; 56.684 ; 8.670 
+;17;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.5. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar la confianza en el Consejo de la Judicatura al 2021.;Confianza en el Consejo de la Judicatura.  ;Nacional ;5,10;0,052;5,00;5,20;1,02; 73.101 ; 13.870 
+;;;;;Urbana ;4,96;0,070;4,82;5,09;1,41; 28.845 ; 5.722 
+;;;;;Rural ;5,45;0,052;5,35;5,55;0,94; 44.256 ; 8.148 
+;18;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.7.  Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar la confianza en la Defensoría Pública al 2021. ;Confianza en la Defensoría Pública.;Nacional ;5,27;0,049;5,18;5,37;0,93; 75.634 ; 13.916 
+;;;;;Urbana ;5,14;0,065;5,01;5,27;1,27; 29.962 ; 5.718 
+;;;;;Rural ;5,59;0,051;5,49;5,69;0,91; 45.672 ; 8.198 
+;19;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.6. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Aumentar la confianza en la Fiscalía General del Estado al 2021.  ;Confianza en la Fiscalía General del Estado. ;Nacional ;5,22;0,050;5,12;5,31;0,95; 74.039 ; 13.808 
+;;;;;Urbana ;5,09;0,067;4,96;5,22;1,31; 29.468 ; 5.705 
+;;;;;Rural ;5,52;0,053;5,41;5,62;0,96; 44.571 ; 8.103 
+;20;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.2. Aumentar del 6,6 a 8 el índice de percepción de  calidad de los servicios públicos al 2021.;Índice de percepción de la calidad de los servicios públicos en general.;Nacional ;6,08;0,040;6,00;6,16;0,66; 94.957 ; 15.298 
+;;;;;Urbana ;5,98;0,055;5,87;6,09;0,93; 36.186 ; 5.974 
+;;;;;Rural ;6,31;0,039;6,23;6,39;0,62; 58.771 ; 9.324 
+;21;Objetivo 7: Incentivar una sociedad participativa, con un estado cercano al servicio de la ciudadanía.;7.3. Aumentar la cobertura, calidad, y acceso a servicios de justicia y seguridad integral: Incrementar la confianza en la Policía Nacional del 6,5 a 6,64 al 2021.;Confianza en la  Policía Nacional.;Nacional ;6,02;0,046;5,93;6,11;0,76; 89.788 ; 14.702 
+;;;;;Urbana ;5,94;0,062;5,82;6,07;1,04; 35.093 ; 5.840 
+;;;;;Rural ;6,19;0,050;6,09;6,28;0,82; 54.695 ; 8.862 

@@ -1,0 +1,225 @@
+CANTON_CODIGO;PROVINCIA_CODIGO;PROVINCIA_NOMBRE;CANTON_NOMBRE
+0000;00;Total Nacional;Total Nacional
+0101;01;Azuay;Cuenca
+0103;01;Azuay;Gualaceo
+0102;01;Azuay;Girón
+0105;01;Azuay;Paute
+0109;01;Azuay;Sigsig
+0108;01;Azuay;Santa Isabel
+0106;01;Azuay;Pucará
+0115;01;Azuay;Camilo Ponce Enríquez
+0110;01;Azuay;Oña
+0107;01;Azuay;San Fernando
+0104;01;Azuay;Nabón
+0111;01;Azuay;Chordeleg
+0113;01;Azuay;Sevilla De Oro
+0112;01;Azuay;El Pan
+0114;01;Azuay;Guachapala
+0201;02;Bolívar;Guaranda
+0203;02;Bolívar;Chimbo
+0205;02;Bolívar;San Miguel
+0202;02;Bolívar;Chillanes
+0204;02;Bolívar;Echeandía
+0206;02;Bolívar;Caluma
+0207;02;Bolívar;Las Naves
+0301;03;Cañar;Azogues
+0303;03;Cañar;Cañar
+0307;03;Cañar;Suscal
+0302;03;Cañar;Biblián
+0304;03;Cañar;La Troncal
+0305;03;Cañar;El Tambo
+0306;03;Cañar;Deleg
+0401;04;Carchi;Tulcán
+0405;04;Carchi;Montúfar
+0403;04;Carchi;Espejo
+0404;04;Carchi;Mira
+0402;04;Carchi;Bolívar
+0406;04;Carchi;San Pedro De Huaca
+0501;05;Cotopaxi;Latacunga
+0504;05;Cotopaxi;Pujilí
+0505;05;Cotopaxi;Salcedo
+0506;05;Cotopaxi;Saquisilí
+0503;05;Cotopaxi;Pangua
+0502;05;Cotopaxi;La Maná
+0507;05;Cotopaxi;Sigchos
+0604;06;Chimborazo;Chambo
+0601;06;Chimborazo;Riobamba
+0607;06;Chimborazo;Guano
+0603;06;Chimborazo;Colta
+0606;06;Chimborazo;Guamote
+0602;06;Chimborazo;Alausí
+0605;06;Chimborazo;Chunchi
+0609;06;Chimborazo;Penipe
+0608;06;Chimborazo;Pallatanga
+0610;06;Chimborazo;Cumandá
+0701;07;El Oro;Machala
+0712;07;El Oro;Santa Rosa
+0713;07;El Oro;Zaruma
+0709;07;El Oro;Pasaje
+0710;07;El Oro;Piñas
+0702;07;El Oro;Arenillas
+0706;07;El Oro;El Guabo
+0705;07;El Oro;Chilla
+0711;07;El Oro;Portovelo
+0707;07;El Oro;Huaquillas
+0703;07;El Oro;Atahualpa
+0714;07;El Oro;Las Lajas
+0708;07;El Oro;Marcabelí
+0704;07;El Oro;Balsas
+0801;08;Esmeraldas;Esmeraldas
+0807;08;Esmeraldas;Río Verde
+0802;08;Esmeraldas;Eloy Alfaro
+0803;08;Esmeraldas;Muisne
+0804;08;Esmeraldas;Quinindé
+0805;08;Esmeraldas;San Lorenzo
+0806;08;Esmeraldas;Atacames
+0903;09;Guayas;Balao
+0905;09;Guayas;Colimes
+0908;09;Guayas;El Empalme
+0901;09;Guayas;Guayaquil
+0920;09;Guayas;Yaguachi
+0906;09;Guayas;Daule
+0904;09;Guayas;Balzar
+0910;09;Guayas;Milagro
+0916;09;Guayas;Samborondón
+0919;09;Guayas;Salitre
+0911;09;Guayas;Naranjal
+0909;09;Guayas;El Triunfo
+0912;09;Guayas;Naranjito
+0913;09;Guayas;Palestina
+0914;09;Guayas;Pedro Carbo
+0921;09;Guayas;Playas
+0922;09;Guayas;Simón Bolívar
+0907;09;Guayas;Durán
+0902;09;Guayas;A.Baquerizo Moreno
+0918;09;Guayas;Santa Lucía
+0923;09;Guayas;Crnl. Marcelino Maridueñas
+0924;09;Guayas;Lomas De Sargentillo
+0925;09;Guayas;Nobol / Piedrahita
+0927;09;Guayas;Gral. A. Elizalde
+0928;09;Guayas;Isidro Ayora
+1001;10;Imbabura;Ibarra
+1004;10;Imbabura;Otavalo
+1003;10;Imbabura;Cotacachi
+1002;10;Imbabura;Antonio Ante
+1005;10;Imbabura;Pimampiro
+1006;10;Imbabura;Urcuquí
+;10;Imbabura;Zona Especial Electoral Las Golondrinas
+1103;11;Loja;Catamayo
+1113;11;Loja;Zapotillo
+1101;11;Loja;Loja
+1111;11;Loja;Saraguro
+1109;11;Loja;Paltas
+1116;11;Loja;Olmedo
+1104;11;Loja;Celica
+1102;11;Loja;Calvas
+1108;11;Loja;Macará
+1110;11;Loja;Puyango
+1107;11;Loja;Gonzanamá
+1106;11;Loja;Espíndola
+1112;11;Loja;Sozoranga
+1114;11;Loja;Pindal
+1115;11;Loja;Quilanga
+1105;11;Loja;Chaguarpamba
+1201;12;Los Ríos;Babahoyo
+1211;12;Los Ríos;Valencia
+1202;12;Los Ríos;Baba
+1208;12;Los Ríos;Vinces
+1204;12;Los Ríos;Pueblo Viejo
+1206;12;Los Ríos;Urdaneta
+1205;12;Los Ríos;Quevedo
+1207;12;Los Ríos;Ventanas
+1213;12;Los Ríos;Quinsaloma
+1203;12;Los Ríos;Montalvo
+1209;12;Los Ríos;Palenque
+1210;12;Los Ríos;Buena Fe
+1212;12;Los Ríos;Mocache
+1305;13;Manabí;Flavio Alfaro
+1301;13;Manabí;Portoviejo
+1309;13;Manabí;Montecristi
+1321;13;Manabí;Jaramijó
+1308;13;Manabí;Manta
+1306;13;Manabí;Jipijapa
+1316;13;Manabí;24 De Mayo
+1312;13;Manabí;Rocafuerte
+1313;13;Manabí;Santa Ana
+1314;13;Manabí;Sucre
+1320;13;Manabí;Jama
+1322;13;Manabí;San Vicente
+1303;13;Manabí;Chone
+1302;13;Manabí;Bolívar
+1307;13;Manabí;Junín
+1310;13;Manabí;Paján
+1304;13;Manabí;El Carmen
+1315;13;Manabí;Tosagua
+1311;13;Manabí;Pichincha
+1317;13;Manabí;Pedernales
+1318;13;Manabí;Olmedo
+1319;13;Manabí;Puerto López
+;13;Manabí;Zona Especial Electoral La Manga Del Cura
+1401;14;Morona Santiago;Morona
+1402;14;Morona Santiago;Gualaquiza
+1403;14;Morona Santiago;Limón Indanza
+1405;14;Morona Santiago;Santiago
+1406;14;Morona Santiago;Sucúa
+1410;14;Morona Santiago;Logroño
+1404;14;Morona Santiago;Palora
+1407;14;Morona Santiago;Huamboya
+1411;14;Morona Santiago;Pablo Sexto
+1412;14;Morona Santiago;Tiwintza
+1408;14;Morona Santiago;San Juan Bosco
+1409;14;Morona Santiago;Taisha
+1504;15;Napo;El Chaco
+1501;15;Napo;Tena
+1509;15;Napo;C. J. Arosemena Tola
+1507;15;Napo;Quijos
+1503;15;Napo;Archidona
+1601;16;Pastaza;Pastaza
+1602;16;Pastaza;Mera
+1603;16;Pastaza;Santa Clara
+1604;16;Pastaza;Arajuno
+1701;17;Pichincha;Quito
+1702;17;Pichincha;Cayambe
+1703;17;Pichincha;Mejía
+1704;17;Pichincha;Pedro Moncayo
+1705;17;Pichincha;Rumiñahui
+1707;17;Pichincha;San Miguel De Los Bancos
+1708;17;Pichincha;Pedro Vicente Maldonado
+1709;17;Pichincha;Puerto Quito
+1809;18;Tungurahua;Tisaleo
+1801;18;Tungurahua;Ambato
+1807;18;Tungurahua;Pelileo
+1808;18;Tungurahua;Píllaro
+1802;18;Tungurahua;Baños
+1805;18;Tungurahua;Patate
+1806;18;Tungurahua;Quero
+1803;18;Tungurahua;Cevallos
+1804;18;Tungurahua;Mocha
+1903;19;Zamora Chinchipe;Nangaritza
+1901;19;Zamora Chinchipe;Zamora
+1902;19;Zamora Chinchipe;Chinchipe
+1908;19;Zamora Chinchipe;Palanda
+1904;19;Zamora Chinchipe;Yacuambi
+1905;19;Zamora Chinchipe;Yanzatza
+1906;19;Zamora Chinchipe;El Pangui
+1907;19;Zamora Chinchipe;Centinela Del Cóndor
+1909;19;Zamora Chinchipe;Paquisha
+2001;20;Galápagos;San Cristóbal
+2003;20;Galápagos;Santa Cruz
+2002;20;Galápagos;Isabela
+2101;21;Sucumbios;Lago Agrio
+2107;21;Sucumbios;Cuyabeno
+2105;21;Sucumbios;Sucumbios
+2103;21;Sucumbios;Putumayo
+2104;21;Sucumbios;Shushufindi
+2106;21;Sucumbios;Cascales
+2102;21;Sucumbios;Gonzalo Pizarro
+2202;22;Orellana;Aguarico
+2201;22;Orellana;Fco.De Orellana
+2203;22;Orellana;Joya De Los Sachas
+2204;22;Orellana;Loreto
+2301;23;Sto Dgo Tsáchilas;Santo Domingo
+2302;23;Sto Dgo Tsáchilas;La Concordia
+2403;24;Santa Elena;Salinas
+2401;24;Santa Elena;Santa Elena
+2402;24;Santa Elena;La Libertad
